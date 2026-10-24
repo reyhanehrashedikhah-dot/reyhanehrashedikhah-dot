@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Reyhaneh 👋
 
-<!--
-**reyhanehrashedikhah-dot/reyhanehrashedikhah-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⚡ Aspiring Network & Cybersecurity Specialist
+Building a strong foundation in systems, networking, and code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack & Skills
+- **Languages:** Python, HTML
+- **Networking & Protocols:** TCP/IP, V2Ray, Routing & Infrastructure
+- **Security & Systems:** Linux, Penetration Testing (Basics)
+
+---
+
+### 🚀 Portfolio & Projects
+*Active repository for upcoming Python scripts, automation tools, and networking projects.*
